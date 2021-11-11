@@ -1,0 +1,2 @@
+com.example.TestConfig=org.springframework.stereotype.Component
+#com.other.TestOtherConfig=org.springframework.stereotype.Component
